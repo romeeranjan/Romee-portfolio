@@ -185,6 +185,6 @@
   }
 
   
-  new PureCounter();
+  
 
 })()
